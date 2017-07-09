@@ -1,0 +1,8 @@
+## Interface: 60000
+## Title: Item Level Reader
+## Notes: Get the average item level of target player
+## Version: 1.2.1
+## Author: SlowSwords
+## SavedVariablesPerCharacter: ItemLevelReaderDB
+
+ItemLevelReader.lua
